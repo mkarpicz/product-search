@@ -1,0 +1,427 @@
+[
+  {
+    "search_phrase": " BUTTERMILK 1%",
+    "results": [
+      {
+        "name": "Buttermilk, 1/2 Gallon",
+        "confidence": 100
+      },
+      {
+        "name": "Pork Butt Bone-In",
+        "confidence": 48
+      },
+      {
+        "name": "Chocolate, Bar, Milk Chocolate, 11 (case)",
+        "confidence": 47
+      }
+    ]
+  },
+  {
+    "search_phrase": " CHEESE BLUE CRUMBLED BAG",
+    "results": [
+      {
+        "name": "Cheese, Feta, Crumbles, 5Lb (case)",
+        "confidence": 68
+      },
+      {
+        "name": "Dressing, Blue Cheese, 4/1 (case)",
+        "confidence": 63
+      },
+      {
+        "name": "Olives, Stuffed, Blue Cheese, 4 Lbs",
+        "confidence": 63
+      }
+    ]
+  },
+  {
+    "search_phrase": " CHEESE CHEDDAR MILD PRINT YE",
+    "results": [
+      {
+        "name": "Cheese, Cheddar, 10 Lbs",
+        "confidence": 80
+      },
+      {
+        "name": "Cheese, Cheddar, Smoked, Lbs",
+        "confidence": 72
+      },
+      {
+        "name": "Cheese, Cheddar, White, 5Lb (case)",
+        "confidence": 70
+      }
+    ]
+  },
+  {
+    "search_phrase": " MILK WHL GALLON",
+    "results": [
+      {
+        "name": "Milk, Whole, Gallon",
+        "confidence": 94
+      },
+      {
+        "name": "Milk, 2%, Gallon",
+        "confidence": 92
+      },
+      {
+        "name": "Milk, Almond, Half Gallon, 6/.5 Gal (case)",
+        "confidence": 85
+      }
+    ]
+  },
+  {
+    "search_phrase": " BACON LAYFLAT C/C 9/13 APL GF",
+    "results": [
+      {
+        "name": "Apples, Gala, Size 113 (case)",
+        "confidence": 50
+      },
+      {
+        "name": "Apples, Gala, 12Ct (case)",
+        "confidence": 50
+      },
+      {
+        "name": "Corn, Cut, Frozen , 12/2.5 Lbs (case)",
+        "confidence": 48
+      }
+    ]
+  },
+  {
+    "search_phrase": " BEEF BRISKET WHL MBG# 120CH\r\n78.300",
+    "results": [
+      {
+        "name": "Corned Beef Brisket",
+        "confidence": 77
+      },
+      {
+        "name": "Beef Brisket 120 (Prime) (case)",
+        "confidence": 63
+      },
+      {
+        "name": "Beef Brisket 120 (Choice) (case)",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "search_phrase": " PORK RIB ST LOUIS 2.25/2 DN",
+    "results": [
+      {
+        "name": "Pork Back Ribs St Louis 2 1/4 Down",
+        "confidence": 78
+      },
+      {
+        "name": "Pork Back Ribs St Louis Wichita (3 Down)",
+        "confidence": 70
+      },
+      {
+        "name": "Pork Baby Back Ribs 2 Down",
+        "confidence": 59
+      }
+    ]
+  },
+  {
+    "search_phrase": "SYS CLS CHICKEN BREAST IFZ BLSL WHL ZI",
+    "results": [
+      {
+        "name": "Chicken Breast Random",
+        "confidence": 80
+      },
+      {
+        "name": "Chicken Bones",
+        "confidence": 70
+      },
+      {
+        "name": "Chicken Breast Whole Skinless 9Oz",
+        "confidence": 68
+      }
+    ]
+  },
+  {
+    "search_phrase": "SYS CLS CHICKEN CVP WING 1&2JT JMB RND",
+    "results": [
+      {
+        "name": "Chicken Bones",
+        "confidence": 70
+      },
+      {
+        "name": "Chicken Ground",
+        "confidence": 67
+      },
+      {
+        "name": "Chicken Wings Jumbo 1St-2Nd Joint/Cut",
+        "confidence": 61
+      }
+    ]
+  },
+  {
+    "search_phrase": "SYS IMP TURKEY BREAST BNLS RAW FOIL",
+    "results": [
+      {
+        "name": "Turkey Breast Boneless",
+        "confidence": 74
+      },
+      {
+        "name": "Smoked Turkey Breast (Foil Wrapped - Bone Out) Tky Valley",
+        "confidence": 68
+      },
+      {
+        "name": "Turkey Drums",
+        "confidence": 67
+      }
+    ]
+  },
+  {
+    "search_phrase": " KETCHUP FANCY",
+    "results": [
+      {
+        "name": "Ketchup, Bottles, Glass, Heinz, 24/ (case)",
+        "confidence": 70
+      },
+      {
+        "name": "Ketchup, Heinz, Up/Down, 16/14 Oz (case)",
+        "confidence": 70
+      },
+      {
+        "name": "Ketchup, 6/10 (case)",
+        "confidence": 70
+      }
+    ]
+  },
+  {
+    "search_phrase": " OIL TRUFFLE WHT",
+    "results": [
+      {
+        "name": "Porterhouse Steak (Choice)",
+        "confidence": 46
+      },
+      {
+        "name": "Turkey Wings 2 Joint",
+        "confidence": 46
+      },
+      {
+        "name": "Corn, White, 48 Ct",
+        "confidence": 45
+      }
+    ]
+  },
+  {
+    "search_phrase": "SYS IMP OLIVE KALAMATA PTD PLAS KEG",
+    "results": [
+      {
+        "name": "Olives, Kalamata, 5Lb (case)",
+        "confidence": 61
+      },
+      {
+        "name": "Alfalfa Sprouts, Bulk, 2 Lbs (case)",
+        "confidence": 48
+      },
+      {
+        "name": "Olives, Pitted, Queen Spanish, 4 Lb",
+        "confidence": 48
+      }
+    ]
+  },
+  {
+    "search_phrase": " PEPPER CHIPOTLE IN ADOBO SAUCE",
+    "results": [
+      {
+        "name": "Sauce, Chipotle, 24/7 Oz (case)",
+        "confidence": 68
+      },
+      {
+        "name": "Peppers, Chipotle,12/28 Oz,Sanmarco (case)",
+        "confidence": 64
+      },
+      {
+        "name": "Peppers, Chipotle, 6/10, Del Sol (case)",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "search_phrase": " PICKLE SPR KO 215/265CT",
+    "results": [
+      {
+        "name": "Kale, Purple, 24 Ct",
+        "confidence": 55
+      },
+      {
+        "name": "Spice, Tajin, 24/5.6 Oz (case)",
+        "confidence": 53
+      },
+      {
+        "name": "Puree, Prickly Pear, 6/30 Oz (case)",
+        "confidence": 52
+      }
+    ]
+  },
+  {
+    "search_phrase": " VINEGAR RICE WINE SEA",
+    "results": [
+      {
+        "name": "Vinegar, Red Wine, 6/1 (case)",
+        "confidence": 74
+      },
+      {
+        "name": "Vinegar, Rice Seasoned, 4/1 (case)",
+        "confidence": 73
+      },
+      {
+        "name": "Vinegar, Sherry Wine, 4/1 Gal (case)",
+        "confidence": 73
+      }
+    ]
+  },
+  {
+    "search_phrase": " CONTAINER FOAM HNG 1C D",
+    "results": [
+      {
+        "name": "To Go Container, Black, 1Cmp, 9X9 (case)",
+        "confidence": 59
+      },
+      {
+        "name": "Tuna, Canned, 12 Oz",
+        "confidence": 55
+      },
+      {
+        "name": "Oranges, Clementines, 10/3 Lbs (case)",
+        "confidence": 54
+      }
+    ]
+  },
+  {
+    "search_phrase": " AVOCADO HASS FRESH",
+    "results": [
+      {
+        "name": "Avocados, Size 40 (case)",
+        "confidence": 62
+      },
+      {
+        "name": "Avocados, Size 48 (case)",
+        "confidence": 62
+      },
+      {
+        "name": "Avocados, Size 60 (case)",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "search_phrase": " MUSHROOM PORTABELLA",
+    "results": [
+      {
+        "name": "Mushrooms, Portabella, 5 Lbs (case)",
+        "confidence": 76
+      },
+      {
+        "name": "Mushrooms, Portabella, Caps, 5\" , 3 (case)",
+        "confidence": 72
+      },
+      {
+        "name": "Mushrooms, Portabella Caps, 4\", 3 LBS (case)",
+        "confidence": 69
+      }
+    ]
+  },
+  {
+    "search_phrase": " MUSHROOM Sliced FRESH",
+    "results": [
+      {
+        "name": "Mushrooms, Sliced, 5Lb (case)",
+        "confidence": 74
+      },
+      {
+        "name": "Mushrooms, Sliced, 10 Lbs (case)",
+        "confidence": 73
+      },
+      {
+        "name": "Mushrooms, Crimini, Sliced, 5 Lbs (case)",
+        "confidence": 64
+      }
+    ]
+  },
+  {
+    "search_phrase": " ONION YELLOW JUMBO FRESH BAG",
+    "results": [
+      {
+        "name": "Onions, Julienne, Yellow, 3/8\", 5Lb (case)",
+        "confidence": 60
+      },
+      {
+        "name": "Onions, Julienne, Yellow, 3/8\", 4/5 (case)",
+        "confidence": 57
+      },
+      {
+        "name": "Juice, Lemon, Fresh, Gallon",
+        "confidence": 54
+      }
+    ]
+  },
+  {
+    "search_phrase": " PEPPER BELL GREEN CHOPPER",
+    "results": [
+      {
+        "name": "Peppers, Green, 1 - 1/9 Bushel (case)",
+        "confidence": 70
+      },
+      {
+        "name": "Peppers, Green, 1 - 1/9 Bushel",
+        "confidence": 65
+      },
+      {
+        "name": "Peppers, Diced, Green, 1/4\", 5Lb (case)",
+        "confidence": 63
+      }
+    ]
+  },
+  {
+    "search_phrase": " PEPPER RED BELL HOT HOUSE LRG",
+    "results": [
+      {
+        "name": "Peppers, Red, 1 - 1/9 Bushel",
+        "confidence": 67
+      },
+      {
+        "name": "Peppers, Red, 15 Lbs (case)",
+        "confidence": 62
+      },
+      {
+        "name": "Peppers, Red, 5Lb (case)",
+        "confidence": 61
+      }
+    ]
+  },
+  {
+    "search_phrase": " POTATO BAKING IDAHP 90CT FRS",
+    "results": [
+      {
+        "name": "Starch, Potato, 50 Lbs (case)",
+        "confidence": 57
+      },
+      {
+        "name": "Potatoes, Fingerling, 10Lb (case)",
+        "confidence": 53
+      },
+      {
+        "name": "Potatoes, Fingerling, 50 Lbs (case)",
+        "confidence": 51
+      }
+    ]
+  },
+  {
+    "search_phrase": " TOMATO BULK 5X6 FRESH",
+    "results": [
+      {
+        "name": "Tomatoes, Size 5 X 6, Bulk",
+        "confidence": 71
+      },
+      {
+        "name": "Tomatoes, Size 6 X 6, Bulk",
+        "confidence": 70
+      },
+      {
+        "name": "Tomatoes, Size 5 X 6, Bulk (case)",
+        "confidence": 68
+      }
+    ]
+  }
+]
